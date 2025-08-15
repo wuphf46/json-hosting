@@ -1,171 +1,546 @@
 [
-  {
-    "id": 1,
-    "title": "Acer Aspire 3 Intel Core i3-1215U Processor Laptop with 35.56 cm (14\") Full HD LED-Backlit IPS Display (16 GB RAM/512 GB SSD/WiFi 6/Intel Graphics/Win11 Home/65W) A324-51, Steel Gray, 1.45KG",
-    "price": 29980,
-    "image": "https://m.media-amazon.com/images/I/71Weq+h3A7L._AC_UY218_.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Acer Aspire Lite, 13th Gen, Intel Core i3-1305U, 8GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-53, Metal Body, 36 WHR, Thin and Light Premium Laptop",
-    "price": 32993,
-    "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY218_.jpg"
-  },
-  {
-    "id": 3,
-    "title": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6\"/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",
-    "price": 30290,
-    "image": "https://m.media-amazon.com/images/I/61SHFVKs+AL._AC_UY218_.jpg"
-  },
-  {
-    "id": 4,
-    "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
-    "price": 38490,
-    "image": "https://m.media-amazon.com/images/I/71FXHAM+jWL._AC_UY218_.jpg"
-  },
-  {
-    "id": 5,
-    "title": "HP 255 G10 ‎‎Laptop (AMD Athlon Silver 7120U/ 8GB RAM / 256GB SSD/Windows 11/15.6 INCH ASH Silver",
-    "price": 22357,
-    "image": "https://m.media-amazon.com/images/I/71rw7cd14mL._AC_UY218_.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Lenovo V15 G4 AMD Ryzen 5 7520U DOS 15.6 inch FHD Thin & Lite Laptop, AMD Graphics, 16GB DDR5 5500Mhz Ram, 512GB SSD,Dolby Audio,Premium Grey, 1 Year Onsite Brand Warranty",
-    "price": 33390,
-    "image": "https://m.media-amazon.com/images/I/51JfEzZcfZL._AC_UY218_.jpg"
-  },
-  {
-    "id": 7,
-    "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4, 512GB SSD) Anti-Glare, Micro-Edge, 15.6\"/39.6cm, FHD, Win 11, MSO 21, Silver, 1.59kg, Intel UHD Graphics, 1080p FHD Camera, 15-fd0006TU/fd0186tu",
-    "price": 37800,
-    "image": "https://m.media-amazon.com/images/I/718ba2SBJYL._AC_UY218_.jpg"
-  },
-  {
-    "id": 8,
-    "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
-    "price": 34990,
-    "image": "https://m.media-amazon.com/images/I/71K2w4+A7UL._AC_UY218_.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Lenovo IdeaPad 3, Intel Core i3-1215U, 12th Gen, 8GB RAM, 512GB SSD, FHD, 14\"/35.5cm, Windows 11, MSOffice 2021, Arctic Grey, 1.43Kg, 82RJ00FUIN, 1 Year Warranty, 3months Game Pass, Thin& Light Laptop",
-    "price": 33090,
-    "image": "https://m.media-amazon.com/images/I/71gaqhm080L._AC_UY218_.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Dell Inspiron 3530, Intel Core i5-1334U, 13th Gen, 16GB RAM, 1TB SSD, FHD, 15.6\"/39.62cm, Windows 11, MS Office 24, Silver, 1.62KG, Backlit Keyboard, McAfee 15 Month, Thin & Light Laptop",
-    "price": 59990,
-    "image": "https://m.media-amazon.com/images/I/71xJuBlvrqL._AC_UY218_.jpg"
-  },
-  {
-    "id": 11,
-    "title": "ASUS Vivobook 15,12th Gen,Intel Core i3-1215U (Intel UHD iGPU/8GB RAM/512GB SSD/FHD/14 Inch/60Hz/Chiclet Keyboard/42WHrs/Windows 11/Office 2021/Cool Silver/1.40 kg) X1504ZA-NJ322WS",
-    "price": 30990,
-    "image": "https://m.media-amazon.com/images/I/71-0TwYY+DL._AC_UY218_.jpg"
-  },
-  {
-    "id": 12,
-    "title": "ULTIMUS APEX Laptop Intel Celeron Dual Core 8 GB LPDDR4 512 GB SSD Expandable~1TB 14.1 FHD IPS Laptop Anti-Glare Ultra Thin Bezel 180° Hinge 3.0x3 USB HDMI SD Card Slot Win 11 Home 1.25KG Silver",
-    "price": 17990,
-    "image": "https://m.media-amazon.com/images/I/713QmwFZbsL._AC_UY218_.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Dell Inspiron 3535, AMD Ryzen 5-7530U, 16 GB RAM, 512 GB SSD, FHD IPS 15.6\"/39.62 cm, 120Hz, Windows 11, MS Office 2024, Platinum Silver, 1.67 kg, Thin & Light Laptop",
-    "price": 42840,
-    "image": "https://m.media-amazon.com/images/I/71paHjIJVeL._AC_UY218_.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Lenovo IdeaPad Slim 3, Intel Core i5-12450H, 12th Gen, 16GB RAM, 512GB SSD, FHD, 14\"/35.5cm, Windows 11, MS Office Home 2024, Grey, 1.37Kg, 83EQ0072IN, 3 mon. Game Pass Laptop",
-    "price": 47390,
-    "image": "https://m.media-amazon.com/images/I/81Tj8G57-WL._AC_UY218_.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Dell 15 Thin & Light Laptop, 13th Generation Intel Core i3-1305U Processor, 8GB DDR4 + 512GB SSD, 15.6\" (39.62cm) FHD 120Hz 250 nits Display, Windows 11 + MSO'21, 12 Month McAfee, Grey, 1.69kg",
-    "price": 35990,
-    "image": "https://m.media-amazon.com/images/I/61FyHTMLQWL._AC_UY218_.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Acer Aspire Lite, AMD Ryzen 3 7330U Processor, 8 GB RAM, 512 GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.6KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
-    "price": 28990,
-    "image": "https://m.media-amazon.com/images/I/61keRkmSGBL._AC_UY218_.jpg"
-  },
-  {
-    "id": 17,
-    "title": "HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD) Anti-Glare, Micro-edge,15.6''/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/privacy shutter, fd0577TU",
-    "price": 55990,
-    "image": "https://m.media-amazon.com/images/I/71bagLp2sXL._AC_UY218_.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Lenovo Ideapad 1 AMD Ryzen 5 5625U (16GB RAM/512GB SSD/Windows 11/Office Home 2024/15.6 Inch (39.6Cm)/FHD IPS Display/3Months Game Pass/Grey/1.6Kg), 82R4011CIN/0DIN Laptop",
-    "price": 37990,
-    "image": "https://m.media-amazon.com/images/I/814By4kEe5L._AC_UY218_.jpg"
-  },
-  {
-    "id": 19,
-    "title": "ASUS Vivobook S16,13th Gen,Intel Core i5-13420H,Metallic Design Laptop(Intel UHD iGPU/16GB RAM/512GB SSD/FHD+/16\"/144Hz/Windows 11/M365 Basic(1Year)*/Office Home 2024/Matte Gray/1.7 Kg)S3607VA-RP054WS",
-    "price": 59990,
-    "image": "https://m.media-amazon.com/images/I/71LwIxMzWDL._AC_UY218_.jpg"
-  },
-  {
-    "id": 20,
-    "title": "Acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
-    "price": 22990,
-    "image": "https://m.media-amazon.com/images/I/71TpwcAN1PL._AC_UY218_.jpg"
-  },
-  {
-    "id": 21,
-    "title": "Lenovo IdeaPad Slim 3, Intel Core i5-12450H, 12th Gen, 16GB RAM, 512GB SSD, FHD, 14\"/35.5cm, Windows 11, MS Office Home 2024, Grey, 1.37Kg, 83EQ0072IN, 3 mon. Game Pass Laptop",
-    "price": 47390,
-    "image": "https://m.media-amazon.com/images/I/81Tj8G57-WL._AC_UY218_.jpg"
-  },
-  {
-    "id": 22,
-    "title": "Dell 15 3520 Thin & Light Laptop, Intel Core i3-1215U Processor, 12th Gen(8GB RAM/512GB SSD/Windows 11 Home/MS Office' 21 /15.6\"(39.62 Cm)FHD Display /Intel UHD Graphics/15 Month Mcafee /Black /1.69Kg",
-    "price": 32990,
-    "image": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._AC_UY218_.jpg"
-  },
-  {
-    "id": 23,
-    "title": "Acer Aspire Lite, 13th Gen, Intel Core i3-1305U, 8GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-53, Metal Body, 36 WHR, Thin and Light Premium Laptop",
-    "price": 32993,
-    "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY218_.jpg"
-  },
-  {
-    "id": 24,
-    "title": "Acer Aspire 3 Intel Core i3-1215U Processor Laptop with 35.56 cm (14\") Full HD LED-Backlit IPS Display (16 GB RAM/512 GB SSD/WiFi 6/Intel Graphics/Win11 Home/65W) A324-51, Steel Gray, 1.45KG",
-    "price": 29980,
-    "image": "https://m.media-amazon.com/images/I/71Weq+h3A7L._AC_UY218_.jpg"
-  },
-  {
-    "id": 25,
-    "title": "Lenovo V15 AMD Ryzen 7 7730U 15.6\" (39.62cm) FHD 250 Nits Antiglare Thin and Light Laptop (Free MS Office) Lifetime (16GB/512GB SSD/Windows 11/Iron Grey/1.65 Kg) 1 Year Brand Warranty, 83CRA01SIN",
-    "price": 44999,
-    "image": "https://m.media-amazon.com/images/I/710hhin8IyL._AC_UY218_.jpg"
-  },
-  {
-    "id": 26,
-    "title": "HP 15 (2025), Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Ash Grey/1.5 kg/MS Office 2021",
-    "price": 22775,
-    "image": "https://m.media-amazon.com/images/I/71sxKjBSHKL._AC_UY218_.jpg"
-  },
-  {
-    "id": 27,
-    "title": "Lenovo {SmartChoice)Chromebook Intel Celeron N4500 (4GB RAM/64GB eMMC 5.1/11.6 Inch (29.46cm)/HD Display/2Wx2 Stereo Speakers/HD Camera/Chrome OS/Blue/1.21Kg), 82UY0014HA",
-    "price": 13990,
-    "image": "https://m.media-amazon.com/images/I/71eHrg3+O7L._AC_UY218_.jpg"
-  },
-  {
-    "id": 28,
-    "title": "HP Victus, 13th Gen i7-13620H, 6GB RTX 4050 (16GB DDR4, 512GB SSD) FHD, 144Hz, IPS, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fa2100TX/2103tx, Backlit, Enhanced Cooling, Gaming Laptop",
-    "price": 98602,
-    "image": "https://m.media-amazon.com/images/I/719FdIHxMVL._AC_UY218_.jpg"
-  }
+  [
+    {
+        "id": 1,
+        "category": "laptop",
+        "title": "Dell 15 Thin & Light Laptop, 13th Gen Intel Core i3-1305U Processor, 8GB DDR4, 512GB SSD, 15.6\" (39.62cm) FHD 120Hz 250 nits, Intel UHD Graphics, Windows 11 + MSO'21, 15 Months McAfee, Black, 1.66kg",
+        "price": "34,990",
+        "image": "https://m.media-amazon.com/images/I/51TthRPD2YL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "27"
+    },
+    {
+        "id": 2,
+        "category": "laptop",
+        "title": "Dell Inspiron 3530 Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 512GB SSD, 15.6\"(39.62cm) FHD 120Hz 250 nits, Backlit KB, Windows 11 + MSO'24 & 15 Month McAfee, Silver, Thin & Light- 1.62kg",
+        "price": "54,490",
+        "image": "https://m.media-amazon.com/images/I/7196KacSGQL._AC_UY218_.jpg",
+        "rating": "3.6 out of 5 stars",
+        "reviews": "93"
+    },
+    {
+        "id": 3,
+        "category": "laptop",
+        "title": "HP 15 (2025), Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Ash Grey/1.5 kg/MS Office 2021",
+        "price": "22,800",
+        "image": "https://m.media-amazon.com/images/I/71sxKjBSHKL._AC_UY218_.jpg",
+        "rating": "3.4 out of 5 stars",
+        "reviews": "10"
+    },
+    {
+        "id": 4,
+        "category": "laptop",
+        "title": "Acer Aspire Lite, AMD Ryzen 3 7330U Processor, 8 GB RAM, 512 GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.6KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
+        "price": "28,990",
+        "image": "https://m.media-amazon.com/images/I/61keRkmSGBL._AC_UY218_.jpg",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "1,406"
+    },
+    {
+        "id": 5,
+        "category": "laptop",
+        "title": "Dell 15 Thin & Light Laptop, 13th Generation Intel Core i3-1305U Processor, 8GB DDR4 + 512GB SSD, 15.6\" (39.62cm) FHD 120Hz 250 nits Display, Windows 11 + MSO'21, 12 Month McAfee, Grey, 1.69kg",
+        "price": "34,990",
+        "image": "https://m.media-amazon.com/images/I/61FyHTMLQWL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "217"
+    },
+    {
+        "id": 6,
+        "category": "laptop",
+        "title": "Lenovo V15 G4 AMD Ryzen 5 7520U DOS 15.6 inch FHD Thin & Lite Laptop, AMD Graphics, 16GB DDR5 5500Mhz Ram, 512GB SSD,Dolby Audio,Premium Grey, 1 Year Onsite Brand Warranty",
+        "price": "33,390",
+        "image": "https://m.media-amazon.com/images/I/51JfEzZcfZL._AC_UY218_.jpg",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "141"
+    },
+    {
+        "id": 7,
+        "category": "laptop",
+        "title": "Walker Best Student &Office Work Laptop|Thin & Light|14.1\" 1920 * 1080 Resolution FHD IPS Display |4GB RAM,128GB SSD|Celeron Processor N4020 (Gemini Lake)| Windows 11 Home | Silver",
+        "price": "12,990",
+        "image": "https://m.media-amazon.com/images/I/61zWFTCfWeL._AC_UY218_.jpg",
+        "rating": "3.4 out of 5 stars",
+        "reviews": "143"
+    },
+    {
+        "id": 8,
+        "category": "laptop",
+        "title": "HP 14 (2025), AMD Ryzen 5 7520U Quad Core - (8 GB/512 GB SSD/AMD Radeon Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" HD Display/Ash Grey/1.36 kg/MS Office 2021",
+        "price": "28,990",
+        "image": "https://m.media-amazon.com/images/I/71OYTmMWyLL._AC_UY218_.jpg",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "21"
+    },
+    {
+        "id": 9,
+        "category": "laptop",
+        "title": "ULTIMUS Pro Intel Celeron Dual Core Laptop 4GB RAM, 128GB M.2 Emmc Expandable~512GB Intel HD Graphics 2.0x1 3.0x1 USB HDMI Sd Card Slot ‎LPDDR4 Dual Speaker Dual Microphone Win 11 Home Gray, 1.2 kg",
+        "price": "11,990",
+        "image": "https://m.media-amazon.com/images/I/61ZYf3SK4NL._AC_UY218_.jpg",
+        "rating": "3.4 out of 5 stars",
+        "reviews": "105"
+    },
+    {
+        "id": 10,
+        "category": "laptop",
+        "title": "HP 15s, 12th Gen Intel Core i3-1215U (8GB DDR4, 512GB SSD) Anti-Glare, 15.6\"/39.6cm,FHD, Win 11, MS Office 21, Silver, 1.69kg, fy5006tu/fd0751tu/fd0752tu, UHD Graphics, HD Camera, Dual Speakers Laptop",
+        "price": "32,990",
+        "image": "https://m.media-amazon.com/images/I/71+gQ9gOTuL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1,583"
+    },
+    {
+        "id": 11,
+        "category": "headphones",
+        "title": "GOBOULT Q Over Ear Bluetooth Headphones with 70H Playtime, 40mm Bass Drivers, Zen™ ENC Mic, Type-C Fast Charging, 4 EQ Modes, AUX Option, IPX5 Headphones Wireless with mic (Black)",
+        "price": "1,799",
+        "image": "https://m.media-amazon.com/images/I/6163uYK3eeL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "3,778"
+    },
+    {
+        "id": 12,
+        "category": "headphones",
+        "title": "Amazon Basics Pro Series Wireless Noise Cancelling ANC Over Ear Headphone | Bluetooth Headset | USB Charging | 10 m Paring Distance | 74 Hours Battery Life | 40 mm Drivers | IPX4 Rated (Black)",
+        "price": "2,349",
+        "image": "https://m.media-amazon.com/images/I/51JY566jmhL._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "1,012"
+    },
+    {
+        "id": 13,
+        "category": "headphones",
+        "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+        "price": "349",
+        "image": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "424,032"
+    },
+    {
+        "id": 14,
+        "category": "headphones",
+        "title": "boAt Rockerz 480 W/RGB LEDs, 6 Light Modes, 40Mm Drivers, Beast Mode, 60Hrs Playback, Enx Tech, BT V5.3, Adaptive Fit & Easy Access Controls, Bluetooth Over Ear Headphones(Black Sabre)",
+        "price": "1,499",
+        "image": "https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "2,040"
+    },
+    {
+        "id": 15,
+        "category": "headphones",
+        "title": "ZEBRONICS Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible (Green)",
+        "price": "159",
+        "image": "https://m.media-amazon.com/images/I/61+0KSoFrOL._AC_UY218_.jpg",
+        "rating": "3.5 out of 5 stars",
+        "reviews": "62,342"
+    },
+    {
+        "id": 16,
+        "category": "headphones",
+        "title": "Honeywell New Launched Moxie V20 Bluetooth v5.4 On-Ear Headphones with Mic, ENC, 25H Playback, Deep Bass, IPX4, Aux, Stereo Sound, 40ms Low Latency Gaming Mode, Padded Cushion",
+        "price": "1,397",
+        "image": "https://m.media-amazon.com/images/I/51p2pKjZ5gL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "44"
+    },
+    {
+        "id": 17,
+        "category": "headphones",
+        "title": "PowerA Wired Gaming Stereo Headset for Nintendo Switch with Detachable Boom Mic, Fortnite Llambro, Officially Licensed (Virtual Bonus Item Included)",
+        "price": "2,699",
+        "image": "https://m.media-amazon.com/images/I/71fZ0hMU-3L._AC_UL320_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "201"
+    },
+    {
+        "id": 18,
+        "category": "headphones",
+        "title": "Skullcandy Riff 2 On Ear Wireless Headphones, 40mm Drivers, Advanced Features Through The App, Collapsible Design, 34Hr Playtime + Rapid Charge- Black",
+        "price": "3,999",
+        "image": "https://m.media-amazon.com/images/I/71cKqKY3dmL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "1,864"
+    },
+    {
+        "id": 19,
+        "category": "headphones",
+        "title": "AILIHEN Kids Wired Headphones for School, Headphones with Microphone for Chromebook Laptop Computer Smartphone, 3.5mm Foldable Lightweight Headphones for Teen Teenager (Rose Gold)",
+        "price": "1,740",
+        "image": "https://m.media-amazon.com/images/I/61ZDrjbckIL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "3"
+    },
+    {
+        "id": 20,
+        "category": "headphones",
+        "title": "Audio-Technica ATH-S220BT Bluetooth Wireless Headphones with Mic | 60H Battery, Over-Ear Headset for Mobile & PC | Fast Charging Bluetooth Earphones with Wired Option",
+        "price": "5,690",
+        "image": "https://m.media-amazon.com/images/I/61tNm3iYglL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "174"
+    },
+    {
+        "id": 21,
+        "category": "mobile",
+        "title": "Vivo V60 5G (Mist Gray, 12GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "price": "40,999",
+        "image": "https://m.media-amazon.com/images/I/61eAwV+gq6L._AC_UY218_.jpg",
+        "rating": "Rating not found",
+        "reviews": "M.R.P:"
+    },
+    {
+        "id": 22,
+        "category": "mobile",
+        "title": "iQOO Z10R 5G (Moonstone, 8GB RAM, 128GB Storage) | 32MP 4K Selfie Camera | Quad-Curved AMOLED Display | Dimensity 7400 Processor with 750K+ AnTuTu",
+        "price": "19,498",
+        "image": "https://m.media-amazon.com/images/I/51WO7LtLM6L._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "120"
+    },
+    {
+        "id": 23,
+        "category": "mobile",
+        "title": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7\" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
+        "price": "6,249",
+        "image": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "5,756"
+    },
+    {
+        "id": 24,
+        "category": "mobile",
+        "title": "Nokia 105 Classic | Single SIM Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio, Without Charger | Charcoal",
+        "price": "974",
+        "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._AC_UY218_.jpg",
+        "rating": "3.8 out of 5 stars",
+        "reviews": "18,682"
+    },
+    {
+        "id": 25,
+        "category": "mobile",
+        "title": "iQOO Z10x 5G (Ultramarine, 6GB RAM, 128GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Durability",
+        "price": "13,498",
+        "image": "https://m.media-amazon.com/images/I/61sU81AK8XL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "3,130"
+    },
+    {
+        "id": 26,
+        "category": "mobile",
+        "title": "Lava Bold N1 (Radiant Black, 4 GB RAM, 64 GB Storage) | 6.75\" (90 Hz) HD+ Display | 13MP AI Dual Rear Camera | 5000 mAh Battery | Secure Face Unlock | Fingerprint Reader | Charger & Phone-Case in Box",
+        "price": "5,999",
+        "image": "https://m.media-amazon.com/images/I/61ashrm0SzL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "103"
+    },
+    {
+        "id": 27,
+        "category": "mobile",
+        "title": "Redmi Note 14 Pro 5G Champagne Gold 8GB RAM 256GB Storage|50 MP Sony Camera Setup|Corning Gorilla Glass Victus 2 | 1.5K 3D Curved AMOLED | Mediatek Dimensity 7300- Ultra | IP68 IP69",
+        "price": "24,780",
+        "image": "https://m.media-amazon.com/images/I/81sueO-H9mL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "200"
+    },
+    {
+        "id": 28,
+        "category": "mobile",
+        "title": "OnePlus 13 | Smarter with OnePlus AI | Lifetime Display Warranty (16GB RAM, 512GB Storage Midnight Ocean)",
+        "price": "69,999",
+        "image": "https://m.media-amazon.com/images/I/71N4hshhfNL._AC_UL320_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "1,814"
+    },
+    {
+        "id": 29,
+        "category": "mobile",
+        "title": "Redmi 14C 5G (Stardust Purple, 6GB RAM, 128GB Storage) | Superfast 4nm Snapdragon 4 Gen 2 | 120Hz 17.47cm (6.88”) Display | 5160mAh Battery | 50MP Dual Camera | Premium Starlight Design",
+        "price": "11,498",
+        "image": "https://m.media-amazon.com/images/I/81-FAwtrstL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1,384"
+    },
+    {
+        "id": 30,
+        "category": "mobile",
+        "title": "iQOO Z10 Lite 5G (Cyber Green, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+        "price": "10,998",
+        "image": "https://m.media-amazon.com/images/I/61852T0zGxL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "1,225"
+    },
+    {
+        "id": 31,
+        "category": "shoes",
+        "title": "Centrino",
+        "price": "899",
+        "image": "https://m.media-amazon.com/images/I/71u2aChbtqL._AC_UL320_.jpg",
+        "rating": "3.8 out of 5 stars",
+        "reviews": "200"
+    },
+    {
+        "id": 32,
+        "category": "shoes",
+        "title": "Cruiser",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/61cX2y010sL._AC_UL320_.jpg",
+        "rating": "3.7 out of 5 stars",
+        "reviews": "175"
+    },
+    {
+        "id": 33,
+        "category": "shoes",
+        "title": "Centrino",
+        "price": "899",
+        "image": "https://m.media-amazon.com/images/I/61cAYPHqiIL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "2"
+    },
+    {
+        "id": 34,
+        "category": "shoes",
+        "title": "Bacca Bucci",
+        "price": "1,499",
+        "image": "https://m.media-amazon.com/images/I/71V4GGv1edL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "1,315"
+    },
+    {
+        "id": 35,
+        "category": "shoes",
+        "title": "BRUTON",
+        "price": "329",
+        "image": "https://m.media-amazon.com/images/I/613jfAH1TuL._AC_UL320_.jpg",
+        "rating": "3.1 out of 5 stars",
+        "reviews": "1,947"
+    },
+    {
+        "id": 36,
+        "category": "shoes",
+        "title": "ASIAN",
+        "price": "799",
+        "image": "https://m.media-amazon.com/images/I/81R6YbNKOzL._AC_UL320_.jpg",
+        "rating": "3.6 out of 5 stars",
+        "reviews": "1,362"
+    },
+    {
+        "id": 37,
+        "category": "shoes",
+        "title": "Boldfit",
+        "price": "187",
+        "image": "https://m.media-amazon.com/images/I/71UlEDZPiCL._AC_UL320_.jpg",
+        "rating": "4.4 out of 5 stars",
+        "reviews": "11,331"
+    },
+    {
+        "id": 38,
+        "category": "shoes",
+        "title": "SPARX",
+        "price": "974.",
+        "image": "https://m.media-amazon.com/images/I/71iA0nEfdoL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "11,137"
+    },
+    {
+        "id": 39,
+        "category": "shoes",
+        "title": "DOCTOR EXTRA SOFT",
+        "price": "1,499",
+        "image": "https://m.media-amazon.com/images/I/61gy9GBKoIL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "349"
+    },
+    {
+        "id": 40,
+        "category": "shoes",
+        "title": "JQR",
+        "price": "799",
+        "image": "https://m.media-amazon.com/images/I/618q1KwldsL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "65"
+    },
+    {
+        "id": 41,
+        "category": "backpack",
+        "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
+        "price": "2,199",
+        "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "444"
+    },
+    {
+        "id": 42,
+        "category": "backpack",
+        "title": "SWISS MILITARY 30L Unisex Laptop Travel Backpack for 15.6-Inch Laptops – with Luggage Strap, Detachable Key Ring, Anti-Theft Pocket, Expandable Bottle Pocket for Office and College Use",
+        "price": "1,639",
+        "image": "https://m.media-amazon.com/images/I/61T7iWBl0aL._AC_UY218_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "337"
+    },
+    {
+        "id": 43,
+        "category": "backpack",
+        "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
+        "price": "699",
+        "image": "https://m.media-amazon.com/images/I/71maWXZscfL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "8,163"
+    },
+    {
+        "id": 44,
+        "category": "backpack",
+        "title": "Aristocrat 13L Nova 3 Compartment Laptop Backpack - Black/School Bag",
+        "price": "389",
+        "image": "https://m.media-amazon.com/images/I/71aYGrOy6gL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "601"
+    },
+    {
+        "id": 45,
+        "category": "backpack",
+        "title": "American Tourister Valex 28 Ltrs Large 5 Compartment Laptop Backpack with Bottle Pocket and Front Organizer- Black",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/51yfw2JIxwL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "8,225"
+    },
+    {
+        "id": 46,
+        "category": "backpack",
+        "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
+        "price": "2,199",
+        "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UL320_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "444"
+    },
+    {
+        "id": 47,
+        "category": "backpack",
+        "title": "Gear Aspire 3 19\"/35L Faux Leather Large Water Resistant 5 Compartment Laptop Backpack/Casual Backpack/Daypack/Travel Backpack/College Bag For Men/Women(Brown-Black)",
+        "price": "1,399",
+        "image": "https://m.media-amazon.com/images/I/81Bdhfm7UuL._AC_UL320_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "10,158"
+    },
+    {
+        "id": 48,
+        "category": "backpack",
+        "title": "CarryPro 30L Overnighter Duffle Backpack – Fits 15.6” Laptop | 2-Way Carry with 180° Easy Access | Water-Resistant Travel Bag with Raincover, Sling Belt & 5 Bonus Velcro Stickers | 2-Year Warranty",
+        "price": "3,897",
+        "image": "https://m.media-amazon.com/images/I/81CA2X49wmL._AC_UL320_.jpg",
+        "rating": "4.7 out of 5 stars",
+        "reviews": "47"
+    },
+    {
+        "id": 49,
+        "category": "backpack",
+        "title": "Gods GHOST X 25 ltr Anti Theft 15.6 inch Laptop Tech Backpack for Men, Women, Boys, Girls | Premium bags for Gift | Bike Riding Bag for College, Travel, Office, Flight luggage | Black",
+        "price": "3,799",
+        "image": "https://m.media-amazon.com/images/I/81sQhK61YdL._AC_UL320_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "9,225"
+    },
+    {
+        "id": 50,
+        "category": "backpack",
+        "title": "FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",
+        "price": "699",
+        "image": "https://m.media-amazon.com/images/I/61egMfcDWlL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "10,202"
+    },
+    {
+        "id": 51,
+        "category": "smartwatch",
+        "title": "GOBOULT Drift+ Smart Watch 1.85''HD Screen, Bluetooth Calling, IP67, 500 Nits Brightness,150+ Watchfaces, AI Voice Assistant, SpO2 Monitoring, 100+ Sports Mode Smartwatch (Snow Leather)",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/810t6MNakWL._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "1,877"
+    },
+    {
+        "id": 52,
+        "category": "smartwatch",
+        "title": "Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39\" TFT Display with Dual Button, Hands On Voice Assistance, 120 Sports Modes, in Built Mic & Speaker (Talk, Grey)",
+        "price": "1,199",
+        "image": "https://m.media-amazon.com/images/I/61uNMR5WssL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "35,911"
+    },
+    {
+        "id": 53,
+        "category": "smartwatch",
+        "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+        "price": "1,199",
+        "image": "https://m.media-amazon.com/images/I/61bm7UEdGAL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "18,807"
+    },
+    {
+        "id": 54,
+        "category": "smartwatch",
+        "title": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link)",
+        "price": "1,699",
+        "image": "https://m.media-amazon.com/images/I/81oS2scJ5GL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "28,328"
+    },
+    {
+        "id": 55,
+        "category": "smartwatch",
+        "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Rose Pink)",
+        "price": "1,199",
+        "image": "https://m.media-amazon.com/images/I/61O8dUpkQxL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "18,807"
+    },
+    {
+        "id": 56,
+        "category": "smartwatch",
+        "title": "GOBOULT Drift+ Smart Watch 1.85''HD Screen, Bluetooth Calling, IP68, 500 Nits Brightness,150+ Watchfaces, AI Voice Assistant, SpO2 Monitoring, 100+ Sports Mode Smartwatch (Chrome)",
+        "price": "1,199",
+        "image": "https://m.media-amazon.com/images/I/71foPRZgkRL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "1,877"
+    },
+    {
+        "id": 57,
+        "category": "smartwatch",
+        "title": "Noise Pro 6 Smart Watch:Intelligent AI, Endless AI Watch Faces, AI Companion, 1.85\" AMOLED, EN2 Processor, Nebula UI 2.0, Emergency SOS, Compatible with iOS & Android (Arctic Weave), Multicolor",
+        "price": "6,498",
+        "image": "https://m.media-amazon.com/images/I/81cuxixj2-L._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "20,595"
+    },
+    {
+        "id": 58,
+        "category": "smartwatch",
+        "title": "Noise Twist Go Smart Watch 1.39\" Display, TruSyncᵀᴹ BT Calling, Glossy Metal Finish, 150+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, Smart Watch for Men and Women (Silver Blue)",
+        "price": "1,399",
+        "image": "https://m.media-amazon.com/images/I/711G-fvEShL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "28,328"
+    },
+    {
+        "id": 59,
+        "category": "smartwatch",
+        "title": "Noise Vortex Plus 1.46 AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Battery Life, All New OS with 100+ Watch Faces & Health Suite (Black)",
+        "price": "2,199",
+        "image": "https://m.media-amazon.com/images/I/61QiBo-sPTL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "54,365"
+    },
+    {
+        "id": 60,
+        "category": "smartwatch",
+        "title": "GOBOULT Newly Launched Pyro Smartwatch 1.43'' AMOLED Screen, BT Calling 5.3, 600 Nits Brightness, IP68, 150+ Watchfaces, 120+ Sports Modes, AI Voice Assistant, SpO2 Monitoring (Platinum Gold)",
+        "price": "2,199",
+        "image": "https://m.media-amazon.com/images/I/810Rxmi71RL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "200"
+    }
 ]
+]
+
 
