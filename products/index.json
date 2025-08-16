@@ -1,544 +1,542 @@
 [
-  {
-      "id": 1,
-      "category": "laptop",
-      "title": "Dell 15 Thin & Light Laptop, 13th Gen Intel Core i3-1305U Processor, 8GB DDR4, 512GB SSD, 15.6\" (39.62cm) FHD 120Hz 250 nits, Intel UHD Graphics, Windows 11 + MSO'21, 15 Months McAfee, Black, 1.66kg",
-      "price": "34,990",
-      "image": "https://m.media-amazon.com/images/I/51TthRPD2YL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "27"
-  },
-  {
-      "id": 2,
-      "category": "laptop",
-      "title": "Dell Inspiron 3530 Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 512GB SSD, 15.6\"(39.62cm) FHD 120Hz 250 nits, Backlit KB, Windows 11 + MSO'24 & 15 Month McAfee, Silver, Thin & Light- 1.62kg",
-      "price": "54,490",
-      "image": "https://m.media-amazon.com/images/I/7196KacSGQL._AC_UY218_.jpg",
-      "rating": "3.6 out of 5 stars",
-      "reviews": "93"
-  },
-  {
-      "id": 3,
-      "category": "laptop",
-      "title": "HP 15 (2025), Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Ash Grey/1.5 kg/MS Office 2021",
-      "price": "22,800",
-      "image": "https://m.media-amazon.com/images/I/71sxKjBSHKL._AC_UY218_.jpg",
-      "rating": "3.4 out of 5 stars",
-      "reviews": "10"
-  },
-  {
-      "id": 4,
-      "category": "laptop",
-      "title": "Acer Aspire Lite, AMD Ryzen 3 7330U Processor, 8 GB RAM, 512 GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.6KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
-      "price": "28,990",
-      "image": "https://m.media-amazon.com/images/I/61keRkmSGBL._AC_UY218_.jpg",
-      "rating": "3.9 out of 5 stars",
-      "reviews": "1,406"
-  },
-  {
-      "id": 5,
-      "category": "laptop",
-      "title": "Dell 15 Thin & Light Laptop, 13th Generation Intel Core i3-1305U Processor, 8GB DDR4 + 512GB SSD, 15.6\" (39.62cm) FHD 120Hz 250 nits Display, Windows 11 + MSO'21, 12 Month McAfee, Grey, 1.69kg",
-      "price": "34,990",
-      "image": "https://m.media-amazon.com/images/I/61FyHTMLQWL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "217"
-  },
-  {
-      "id": 6,
-      "category": "laptop",
-      "title": "Lenovo V15 G4 AMD Ryzen 5 7520U DOS 15.6 inch FHD Thin & Lite Laptop, AMD Graphics, 16GB DDR5 5500Mhz Ram, 512GB SSD,Dolby Audio,Premium Grey, 1 Year Onsite Brand Warranty",
-      "price": "33,390",
-      "image": "https://m.media-amazon.com/images/I/51JfEzZcfZL._AC_UY218_.jpg",
-      "rating": "3.9 out of 5 stars",
-      "reviews": "141"
-  },
-  {
-      "id": 7,
-      "category": "laptop",
-      "title": "Walker Best Student &Office Work Laptop|Thin & Light|14.1\" 1920 * 1080 Resolution FHD IPS Display |4GB RAM,128GB SSD|Celeron Processor N4020 (Gemini Lake)| Windows 11 Home | Silver",
-      "price": "12,990",
-      "image": "https://m.media-amazon.com/images/I/61zWFTCfWeL._AC_UY218_.jpg",
-      "rating": "3.4 out of 5 stars",
-      "reviews": "143"
-  },
-  {
-      "id": 8,
-      "category": "laptop",
-      "title": "HP 14 (2025), AMD Ryzen 5 7520U Quad Core - (8 GB/512 GB SSD/AMD Radeon Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" HD Display/Ash Grey/1.36 kg/MS Office 2021",
-      "price": "28,990",
-      "image": "https://m.media-amazon.com/images/I/71OYTmMWyLL._AC_UY218_.jpg",
-      "rating": "3.9 out of 5 stars",
-      "reviews": "21"
-  },
-  {
-      "id": 9,
-      "category": "laptop",
-      "title": "ULTIMUS Pro Intel Celeron Dual Core Laptop 4GB RAM, 128GB M.2 Emmc Expandable~512GB Intel HD Graphics 2.0x1 3.0x1 USB HDMI Sd Card Slot ‎LPDDR4 Dual Speaker Dual Microphone Win 11 Home Gray, 1.2 kg",
-      "price": "11,990",
-      "image": "https://m.media-amazon.com/images/I/61ZYf3SK4NL._AC_UY218_.jpg",
-      "rating": "3.4 out of 5 stars",
-      "reviews": "105"
-  },
-  {
-      "id": 10,
-      "category": "laptop",
-      "title": "HP 15s, 12th Gen Intel Core i3-1215U (8GB DDR4, 512GB SSD) Anti-Glare, 15.6\"/39.6cm,FHD, Win 11, MS Office 21, Silver, 1.69kg, fy5006tu/fd0751tu/fd0752tu, UHD Graphics, HD Camera, Dual Speakers Laptop",
-      "price": "32,990",
-      "image": "https://m.media-amazon.com/images/I/71+gQ9gOTuL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "1,583"
-  },
-  {
-      "id": 11,
-      "category": "headphones",
-      "title": "GOBOULT Q Over Ear Bluetooth Headphones with 70H Playtime, 40mm Bass Drivers, Zen™ ENC Mic, Type-C Fast Charging, 4 EQ Modes, AUX Option, IPX5 Headphones Wireless with mic (Black)",
-      "price": "1,799",
-      "image": "https://m.media-amazon.com/images/I/6163uYK3eeL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "3,778"
-  },
-  {
-      "id": 12,
-      "category": "headphones",
-      "title": "Amazon Basics Pro Series Wireless Noise Cancelling ANC Over Ear Headphone | Bluetooth Headset | USB Charging | 10 m Paring Distance | 74 Hours Battery Life | 40 mm Drivers | IPX4 Rated (Black)",
-      "price": "2,349",
-      "image": "https://m.media-amazon.com/images/I/51JY566jmhL._AC_UY218_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "1,012"
-  },
-  {
-      "id": 13,
-      "category": "headphones",
-      "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
-      "price": "349",
-      "image": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "424,032"
-  },
-  {
-      "id": 14,
-      "category": "headphones",
-      "title": "boAt Rockerz 480 W/RGB LEDs, 6 Light Modes, 40Mm Drivers, Beast Mode, 60Hrs Playback, Enx Tech, BT V5.3, Adaptive Fit & Easy Access Controls, Bluetooth Over Ear Headphones(Black Sabre)",
-      "price": "1,499",
-      "image": "https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY218_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "2,040"
-  },
-  {
-      "id": 15,
-      "category": "headphones",
-      "title": "ZEBRONICS Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible (Green)",
-      "price": "159",
-      "image": "https://m.media-amazon.com/images/I/61+0KSoFrOL._AC_UY218_.jpg",
-      "rating": "3.5 out of 5 stars",
-      "reviews": "62,342"
-  },
-  {
-      "id": 16,
-      "category": "headphones",
-      "title": "Honeywell New Launched Moxie V20 Bluetooth v5.4 On-Ear Headphones with Mic, ENC, 25H Playback, Deep Bass, IPX4, Aux, Stereo Sound, 40ms Low Latency Gaming Mode, Padded Cushion",
-      "price": "1,397",
-      "image": "https://m.media-amazon.com/images/I/51p2pKjZ5gL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "44"
-  },
-  {
-      "id": 17,
-      "category": "headphones",
-      "title": "PowerA Wired Gaming Stereo Headset for Nintendo Switch with Detachable Boom Mic, Fortnite Llambro, Officially Licensed (Virtual Bonus Item Included)",
-      "price": "2,699",
-      "image": "https://m.media-amazon.com/images/I/71fZ0hMU-3L._AC_UL320_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "201"
-  },
-  {
-      "id": 18,
-      "category": "headphones",
-      "title": "Skullcandy Riff 2 On Ear Wireless Headphones, 40mm Drivers, Advanced Features Through The App, Collapsible Design, 34Hr Playtime + Rapid Charge- Black",
-      "price": "3,999",
-      "image": "https://m.media-amazon.com/images/I/71cKqKY3dmL._AC_UL320_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "1,864"
-  },
-  {
-      "id": 19,
-      "category": "headphones",
-      "title": "AILIHEN Kids Wired Headphones for School, Headphones with Microphone for Chromebook Laptop Computer Smartphone, 3.5mm Foldable Lightweight Headphones for Teen Teenager (Rose Gold)",
-      "price": "1,740",
-      "image": "https://m.media-amazon.com/images/I/61ZDrjbckIL._AC_UL320_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "3"
-  },
-  {
-      "id": 20,
-      "category": "headphones",
-      "title": "Audio-Technica ATH-S220BT Bluetooth Wireless Headphones with Mic | 60H Battery, Over-Ear Headset for Mobile & PC | Fast Charging Bluetooth Earphones with Wired Option",
-      "price": "5,690",
-      "image": "https://m.media-amazon.com/images/I/61tNm3iYglL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "174"
-  },
-  {
-      "id": 21,
-      "category": "mobile",
-      "title": "Vivo V60 5G (Mist Gray, 12GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
-      "price": "40,999",
-      "image": "https://m.media-amazon.com/images/I/61eAwV+gq6L._AC_UY218_.jpg",
-      "rating": "Rating not found",
-      "reviews": "M.R.P:"
-  },
-  {
-      "id": 22,
-      "category": "mobile",
-      "title": "iQOO Z10R 5G (Moonstone, 8GB RAM, 128GB Storage) | 32MP 4K Selfie Camera | Quad-Curved AMOLED Display | Dimensity 7400 Processor with 750K+ AnTuTu",
-      "price": "19,498",
-      "image": "https://m.media-amazon.com/images/I/51WO7LtLM6L._AC_UY218_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "120"
-  },
-  {
-      "id": 23,
-      "category": "mobile",
-      "title": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7\" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
-      "price": "6,249",
-      "image": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "5,756"
-  },
-  {
-      "id": 24,
-      "category": "mobile",
-      "title": "Nokia 105 Classic | Single SIM Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio, Without Charger | Charcoal",
-      "price": "974",
-      "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._AC_UY218_.jpg",
-      "rating": "3.8 out of 5 stars",
-      "reviews": "18,682"
-  },
-  {
-      "id": 25,
-      "category": "mobile",
-      "title": "iQOO Z10x 5G (Ultramarine, 6GB RAM, 128GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Durability",
-      "price": "13,498",
-      "image": "https://m.media-amazon.com/images/I/61sU81AK8XL._AC_UY218_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "3,130"
-  },
-  {
-      "id": 26,
-      "category": "mobile",
-      "title": "Lava Bold N1 (Radiant Black, 4 GB RAM, 64 GB Storage) | 6.75\" (90 Hz) HD+ Display | 13MP AI Dual Rear Camera | 5000 mAh Battery | Secure Face Unlock | Fingerprint Reader | Charger & Phone-Case in Box",
-      "price": "5,999",
-      "image": "https://m.media-amazon.com/images/I/61ashrm0SzL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "103"
-  },
-  {
-      "id": 27,
-      "category": "mobile",
-      "title": "Redmi Note 14 Pro 5G Champagne Gold 8GB RAM 256GB Storage|50 MP Sony Camera Setup|Corning Gorilla Glass Victus 2 | 1.5K 3D Curved AMOLED | Mediatek Dimensity 7300- Ultra | IP68 IP69",
-      "price": "24,780",
-      "image": "https://m.media-amazon.com/images/I/81sueO-H9mL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "200"
-  },
-  {
-      "id": 28,
-      "category": "mobile",
-      "title": "OnePlus 13 | Smarter with OnePlus AI | Lifetime Display Warranty (16GB RAM, 512GB Storage Midnight Ocean)",
-      "price": "69,999",
-      "image": "https://m.media-amazon.com/images/I/71N4hshhfNL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "reviews": "1,814"
-  },
-  {
-      "id": 29,
-      "category": "mobile",
-      "title": "Redmi 14C 5G (Stardust Purple, 6GB RAM, 128GB Storage) | Superfast 4nm Snapdragon 4 Gen 2 | 120Hz 17.47cm (6.88”) Display | 5160mAh Battery | 50MP Dual Camera | Premium Starlight Design",
-      "price": "11,498",
-      "image": "https://m.media-amazon.com/images/I/81-FAwtrstL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "1,384"
-  },
-  {
-      "id": 30,
-      "category": "mobile",
-      "title": "iQOO Z10 Lite 5G (Cyber Green, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
-      "price": "10,998",
-      "image": "https://m.media-amazon.com/images/I/61852T0zGxL._AC_UY218_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "1,225"
-  },
-  {
-      "id": 31,
-      "category": "shoes",
-      "title": "Centrino",
-      "price": "899",
-      "image": "https://m.media-amazon.com/images/I/71u2aChbtqL._AC_UL320_.jpg",
-      "rating": "3.8 out of 5 stars",
-      "reviews": "200"
-  },
-  {
-      "id": 32,
-      "category": "shoes",
-      "title": "Cruiser",
-      "price": "999",
-      "image": "https://m.media-amazon.com/images/I/61cX2y010sL._AC_UL320_.jpg",
-      "rating": "3.7 out of 5 stars",
-      "reviews": "175"
-  },
-  {
-      "id": 33,
-      "category": "shoes",
-      "title": "Centrino",
-      "price": "899",
-      "image": "https://m.media-amazon.com/images/I/61cAYPHqiIL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "2"
-  },
-  {
-      "id": 34,
-      "category": "shoes",
-      "title": "Bacca Bucci",
-      "price": "1,499",
-      "image": "https://m.media-amazon.com/images/I/71V4GGv1edL._AC_UL320_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "1,315"
-  },
-  {
-      "id": 35,
-      "category": "shoes",
-      "title": "BRUTON",
-      "price": "329",
-      "image": "https://m.media-amazon.com/images/I/613jfAH1TuL._AC_UL320_.jpg",
-      "rating": "3.1 out of 5 stars",
-      "reviews": "1,947"
-  },
-  {
-      "id": 36,
-      "category": "shoes",
-      "title": "ASIAN",
-      "price": "799",
-      "image": "https://m.media-amazon.com/images/I/81R6YbNKOzL._AC_UL320_.jpg",
-      "rating": "3.6 out of 5 stars",
-      "reviews": "1,362"
-  },
-  {
-      "id": 37,
-      "category": "shoes",
-      "title": "Boldfit",
-      "price": "187",
-      "image": "https://m.media-amazon.com/images/I/71UlEDZPiCL._AC_UL320_.jpg",
-      "rating": "4.4 out of 5 stars",
-      "reviews": "11,331"
-  },
-  {
-      "id": 38,
-      "category": "shoes",
-      "title": "SPARX",
-      "price": "974.",
-      "image": "https://m.media-amazon.com/images/I/71iA0nEfdoL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "11,137"
-  },
-  {
-      "id": 39,
-      "category": "shoes",
-      "title": "DOCTOR EXTRA SOFT",
-      "price": "1,499",
-      "image": "https://m.media-amazon.com/images/I/61gy9GBKoIL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "349"
-  },
-  {
-      "id": 40,
-      "category": "shoes",
-      "title": "JQR",
-      "price": "799",
-      "image": "https://m.media-amazon.com/images/I/618q1KwldsL._AC_UL320_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "65"
-  },
-  {
-      "id": 41,
-      "category": "backpack",
-      "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
-      "price": "2,199",
-      "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UY218_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "444"
-  },
-  {
-      "id": 42,
-      "category": "backpack",
-      "title": "SWISS MILITARY 30L Unisex Laptop Travel Backpack for 15.6-Inch Laptops – with Luggage Strap, Detachable Key Ring, Anti-Theft Pocket, Expandable Bottle Pocket for Office and College Use",
-      "price": "1,639",
-      "image": "https://m.media-amazon.com/images/I/61T7iWBl0aL._AC_UY218_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "reviews": "337"
-  },
-  {
-      "id": 43,
-      "category": "backpack",
-      "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
-      "price": "699",
-      "image": "https://m.media-amazon.com/images/I/71maWXZscfL._AC_UY218_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "8,163"
-  },
-  {
-      "id": 44,
-      "category": "backpack",
-      "title": "Aristocrat 13L Nova 3 Compartment Laptop Backpack - Black/School Bag",
-      "price": "389",
-      "image": "https://m.media-amazon.com/images/I/71aYGrOy6gL._AC_UY218_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "reviews": "601"
-  },
-  {
-      "id": 45,
-      "category": "backpack",
-      "title": "American Tourister Valex 28 Ltrs Large 5 Compartment Laptop Backpack with Bottle Pocket and Front Organizer- Black",
-      "price": "999",
-      "image": "https://m.media-amazon.com/images/I/51yfw2JIxwL._AC_UY218_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "8,225"
-  },
-  {
-      "id": 46,
-      "category": "backpack",
-      "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
-      "price": "2,199",
-      "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UL320_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "444"
-  },
-  {
-      "id": 47,
-      "category": "backpack",
-      "title": "Gear Aspire 3 19\"/35L Faux Leather Large Water Resistant 5 Compartment Laptop Backpack/Casual Backpack/Daypack/Travel Backpack/College Bag For Men/Women(Brown-Black)",
-      "price": "1,399",
-      "image": "https://m.media-amazon.com/images/I/81Bdhfm7UuL._AC_UL320_.jpg",
-      "rating": "4.3 out of 5 stars",
-      "reviews": "10,158"
-  },
-  {
-      "id": 48,
-      "category": "backpack",
-      "title": "CarryPro 30L Overnighter Duffle Backpack – Fits 15.6” Laptop | 2-Way Carry with 180° Easy Access | Water-Resistant Travel Bag with Raincover, Sling Belt & 5 Bonus Velcro Stickers | 2-Year Warranty",
-      "price": "3,897",
-      "image": "https://m.media-amazon.com/images/I/81CA2X49wmL._AC_UL320_.jpg",
-      "rating": "4.7 out of 5 stars",
-      "reviews": "47"
-  },
-  {
-      "id": 49,
-      "category": "backpack",
-      "title": "Gods GHOST X 25 ltr Anti Theft 15.6 inch Laptop Tech Backpack for Men, Women, Boys, Girls | Premium bags for Gift | Bike Riding Bag for College, Travel, Office, Flight luggage | Black",
-      "price": "3,799",
-      "image": "https://m.media-amazon.com/images/I/81sQhK61YdL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "reviews": "9,225"
-  },
-  {
-      "id": 50,
-      "category": "backpack",
-      "title": "FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",
-      "price": "699",
-      "image": "https://m.media-amazon.com/images/I/61egMfcDWlL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "10,202"
-  },
-  {
-      "id": 51,
-      "category": "smartwatch",
-      "title": "GOBOULT Drift+ Smart Watch 1.85''HD Screen, Bluetooth Calling, IP67, 500 Nits Brightness,150+ Watchfaces, AI Voice Assistant, SpO2 Monitoring, 100+ Sports Mode Smartwatch (Snow Leather)",
-      "price": "999",
-      "image": "https://m.media-amazon.com/images/I/810t6MNakWL._AC_UY218_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "1,877"
-  },
-  {
-      "id": 52,
-      "category": "smartwatch",
-      "title": "Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39\" TFT Display with Dual Button, Hands On Voice Assistance, 120 Sports Modes, in Built Mic & Speaker (Talk, Grey)",
-      "price": "1,199",
-      "image": "https://m.media-amazon.com/images/I/61uNMR5WssL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "35,911"
-  },
-  {
-      "id": 53,
-      "category": "smartwatch",
-      "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
-      "price": "1,199",
-      "image": "https://m.media-amazon.com/images/I/61bm7UEdGAL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "18,807"
-  },
-  {
-      "id": 54,
-      "category": "smartwatch",
-      "title": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link)",
-      "price": "1,699",
-      "image": "https://m.media-amazon.com/images/I/81oS2scJ5GL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "28,328"
-  },
-  {
-      "id": 55,
-      "category": "smartwatch",
-      "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Rose Pink)",
-      "price": "1,199",
-      "image": "https://m.media-amazon.com/images/I/61O8dUpkQxL._AC_UY218_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "18,807"
-  },
-  {
-      "id": 56,
-      "category": "smartwatch",
-      "title": "GOBOULT Drift+ Smart Watch 1.85''HD Screen, Bluetooth Calling, IP68, 500 Nits Brightness,150+ Watchfaces, AI Voice Assistant, SpO2 Monitoring, 100+ Sports Mode Smartwatch (Chrome)",
-      "price": "1,199",
-      "image": "https://m.media-amazon.com/images/I/71foPRZgkRL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "reviews": "1,877"
-  },
-  {
-      "id": 57,
-      "category": "smartwatch",
-      "title": "Noise Pro 6 Smart Watch:Intelligent AI, Endless AI Watch Faces, AI Companion, 1.85\" AMOLED, EN2 Processor, Nebula UI 2.0, Emergency SOS, Compatible with iOS & Android (Arctic Weave), Multicolor",
-      "price": "6,498",
-      "image": "https://m.media-amazon.com/images/I/81cuxixj2-L._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "20,595"
-  },
-  {
-      "id": 58,
-      "category": "smartwatch",
-      "title": "Noise Twist Go Smart Watch 1.39\" Display, TruSyncᵀᴹ BT Calling, Glossy Metal Finish, 150+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, Smart Watch for Men and Women (Silver Blue)",
-      "price": "1,399",
-      "image": "https://m.media-amazon.com/images/I/711G-fvEShL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "28,328"
-  },
-  {
-      "id": 59,
-      "category": "smartwatch",
-      "title": "Noise Vortex Plus 1.46 AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Battery Life, All New OS with 100+ Watch Faces & Health Suite (Black)",
-      "price": "2,199",
-      "image": "https://m.media-amazon.com/images/I/61QiBo-sPTL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "54,365"
-  },
-  {
-      "id": 60,
-      "category": "smartwatch",
-      "title": "GOBOULT Newly Launched Pyro Smartwatch 1.43'' AMOLED Screen, BT Calling 5.3, 600 Nits Brightness, IP68, 150+ Watchfaces, 120+ Sports Modes, AI Voice Assistant, SpO2 Monitoring (Platinum Gold)",
-      "price": "2,199",
-      "image": "https://m.media-amazon.com/images/I/810Rxmi71RL._AC_UL320_.jpg",
-      "rating": "4.0 out of 5 stars",
-      "reviews": "200"
-  }
+    {
+        "id": 1,
+        "category": "laptop",
+        "title": "HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD) Anti-Glare, Micro-edge,15.6''/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/privacy shutter, fd0577TU",
+        "price": "53990",
+        "image": "https://m.media-amazon.com/images/I/71bagLp2sXL._AC_UY218_.jpg",
+        "rating": "3.8 out of 5 stars",
+        "reviews": "96"
+    },
+    {
+        "id": 2,
+        "category": "laptop",
+        "title": "HP OmniBook 5 OLED (Previously Pavilion), QC Snapdragon X (16GB LPDDR5x, 512GB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0014QU, Ultra Light-Weight, Next-Gen AI Laptop",
+        "price": "67990",
+        "image": "https://m.media-amazon.com/images/I/71fHNU8KnQL._AC_UY218_.jpg",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "19"
+    },
+    {
+        "id": 3,
+        "category": "laptop",
+        "title": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6\"/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",
+        "price": "29990",
+        "image": "https://m.media-amazon.com/images/I/61SHFVKs+AL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1742"
+    },
+    {
+        "id": 4,
+        "category": "laptop",
+        "title": "HP 255 G10 ‎‎Laptop (AMD Athlon Silver 7120U/ 8GB RAM / 256GB SSD/Windows 11/15.6 INCH ASH Silver",
+        "price": "22357",
+        "image": "https://m.media-amazon.com/images/I/71rw7cd14mL._AC_UY218_.jpg",
+        "rating": "3.6 out of 5 stars",
+        "reviews": "71"
+    },
+    {
+        "id": 5,
+        "category": "laptop",
+        "title": "Dell Latitude Intel 3450 Core i5-13th Gen / 16GB RAM / 512GB SSD / 3 Year Warranty/Windows 11 Pro / 14inch Screen.",
+        "price": "56250",
+        "image": "https://m.media-amazon.com/images/I/61qhSg55mbL._AC_UY218_.jpg",
+        "rating": "1.0 out of 5 stars",
+        "reviews": "1"
+    },
+    {
+        "id": 6,
+        "category": "laptop",
+        "title": "ASUS Vivobook 16,Snapdragon X,Copilot+ AI PC(Qualcomm Adreno iGPU/45TOPS/16GB RAM/512GB SSD/FHD+/16\"/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.88 kg)X1607QA-MB049WS",
+        "price": "57990",
+        "image": "https://m.media-amazon.com/images/I/71oGM-26fZL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "38"
+    },
+    {
+        "id": 7,
+        "category": "laptop",
+        "title": "Dell Vostro 15 3530, Intel Core i5 13th Gen-1334U, 8GB RAM, 512GB SSD, FHD 15.6\"/35.56cm, Windows 11, Carbon Black, 1.66Kg, Intel UHD Graphics, Ideal for Tech Ninjas Laptop",
+        "price": "48990",
+        "image": "https://m.media-amazon.com/images/I/61mIyqErSnL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "93"
+    },
+    {
+        "id": 8,
+        "category": "laptop",
+        "title": "Lenovo ThinkPad E14 AMD Ryzen 5 7530U (8GB RAM/512GB SSD/Win 11 Home/Office 2021/Backlit Keyboard/Fingerprint) 14\" WUXGA IPS 300 Nits Thin & Light Laptop /1Y Warranty/Aluminium Top/1.41 kg,21JRS0JH00",
+        "price": "46990",
+        "image": "https://m.media-amazon.com/images/I/510pfCNfE+L._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "69"
+    },
+    {
+        "id": 9,
+        "category": "laptop",
+        "title": "MSI Thin 15, Intel 13th Gen. Core i7-13620H, 40CM FHD 144Hz Gaming Laptop(16GB/512GB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 3050,GDDR6 4GB/Cosmos Gray/1.86Kg), B13UC-1804IN",
+        "price": "67990",
+        "image": "https://m.media-amazon.com/images/I/71Ie8YsWrFL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "47"
+    },
+    {
+        "id": 10,
+        "category": "laptop",
+        "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
+        "price": "38490",
+        "image": "https://m.media-amazon.com/images/I/71FXHAM+jWL._AC_UY218_.jpg",
+        "rating": "3.7 out of 5 stars",
+        "reviews": "249"
+    },
+    {
+        "id": 11,
+        "category": "headphones",
+        "title": "GOBOULT Q Over Ear Bluetooth Headphones with 70H Playtime, 40mm Bass Drivers, Zen™ ENC Mic, Type-C Fast Charging, 4 EQ Modes, AUX Option, IPX5 Headphones Wireless with mic (Black)",
+        "price": "1799",
+        "image": "https://m.media-amazon.com/images/I/6163uYK3eeL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "3783"
+    },
+    {
+        "id": 12,
+        "category": "headphones",
+        "title": "Amazon Basics Pro Series Wireless Noise Cancelling ANC Over Ear Headphone | Bluetooth Headset | USB Charging | 10 m Paring Distance | 74 Hours Battery Life | 40 mm Drivers | IPX4 Rated (Black)",
+        "price": "2349",
+        "image": "https://m.media-amazon.com/images/I/51JY566jmhL._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "1019"
+    },
+    {
+        "id": 13,
+        "category": "headphones",
+        "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+        "price": "349",
+        "image": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "424122"
+    },
+    {
+        "id": 14,
+        "category": "headphones",
+        "title": "boAt Rockerz 480 W/RGB LEDs, 6 Light Modes, 40Mm Drivers, Beast Mode, 60Hrs Playback, Enx Tech, BT V5.3, Adaptive Fit & Easy Access Controls, Bluetooth Over Ear Headphones(Black Sabre)",
+        "price": "1499",
+        "image": "https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "2052"
+    },
+    {
+        "id": 15,
+        "category": "headphones",
+        "title": "boAt 2025 Launch Rockerz Plus 550 Bluetooth Headphones, Customizable Earcups, 100Hrs Playback, 50mm Drivers, Dual Pair, Bluetooth Headphones, Wireless Headphone with Mic (Black Psyche)",
+        "price": "2499",
+        "image": "https://m.media-amazon.com/images/I/81nacVY+yVL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "64490"
+    },
+    {
+        "id": 16,
+        "category": "headphones",
+        "title": "Honeywell New Launched Moxie V20 Bluetooth v5.4 On-Ear Headphones with Mic, ENC, 25H Playback, Deep Bass, IPX4, Aux, Stereo Sound, 40ms Low Latency Gaming Mode, Padded Cushion",
+        "price": "1397",
+        "image": "https://m.media-amazon.com/images/I/51p2pKjZ5gL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "45"
+    },
+    {
+        "id": 17,
+        "category": "headphones",
+        "title": "soundcore H30i Wireless On-Ear Headphones, Foldable Design, Pure Bass, 70H Playtime, Bluetooth 5.3, Lightweight and Comfortable, App Connectivity, Multipoint Connection",
+        "price": "1898",
+        "image": "https://m.media-amazon.com/images/I/61+Vu6eCccL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "7203"
+    },
+    {
+        "id": 18,
+        "category": "headphones",
+        "title": "Skullcandy Hesh Evo Wireless Over Ear Headphones with Charging Cable,36 Hr Battery,Microphone,Works with iPhone Android and Bluetooth Devices -Bone Orange Glow",
+        "price": "6999",
+        "image": "https://m.media-amazon.com/images/I/51riDUMKjQL._AC_UL320_.jpg",
+        "rating": "4.6 out of 5 stars",
+        "reviews": "16"
+    },
+    {
+        "id": 19,
+        "category": "headphones",
+        "title": "AILIHEN Kids Wired Headphones for School, Headphones with Microphone for Chromebook Laptop Computer Smartphone, 3.5mm Foldable Lightweight Headphones for Teen Teenager (Rose Gold)",
+        "price": "1740",
+        "image": "https://m.media-amazon.com/images/I/61ZDrjbckIL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "3"
+    },
+    {
+        "id": 20,
+        "category": "headphones",
+        "title": "PowerA Wired Gaming Stereo Headset for Nintendo Switch with Detachable Boom Mic, Fortnite Llambro, Officially Licensed (Virtual Bonus Item Included)",
+        "price": "2699",
+        "image": "https://m.media-amazon.com/images/I/71fZ0hMU-3L._AC_UL320_.jpg",
+        "rating": "4.4 out of 5 stars",
+        "reviews": "202"
+    },
+    {
+        "id": 21,
+        "category": "mobile",
+        "title": "OnePlus 13 | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Arctic Dawn)",
+        "price": "62999",
+        "image": "https://m.media-amazon.com/images/I/61oir+alYlL._AC_UY218_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "1821"
+    },
+    {
+        "id": 22,
+        "category": "mobile",
+        "title": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7\" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
+        "price": "6249",
+        "image": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "5792"
+    },
+    {
+        "id": 23,
+        "category": "mobile",
+        "title": "Nokia 105 Classic | Single SIM Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio, Without Charger | Charcoal",
+        "price": "974",
+        "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._AC_UY218_.jpg",
+        "rating": "3.8 out of 5 stars",
+        "reviews": "18710"
+    },
+    {
+        "id": 24,
+        "category": "mobile",
+        "title": "iQOO Z10x 5G (Ultramarine, 6GB RAM, 128GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Durability",
+        "price": "13498",
+        "image": "https://m.media-amazon.com/images/I/61sU81AK8XL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "3158"
+    },
+    {
+        "id": 25,
+        "category": "mobile",
+        "title": "OnePlus 13 | Smarter with OnePlus AI | Lifetime Display Warranty (16GB RAM, 512GB Storage Midnight Ocean)",
+        "price": "69999",
+        "image": "https://m.media-amazon.com/images/I/71N4hshhfNL._AC_UL320_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "1821"
+    },
+    {
+        "id": 26,
+        "category": "mobile",
+        "title": "Lava Bold N1 (Radiant Black, 4 GB RAM, 64 GB Storage) | 6.75\" (90 Hz) HD+ Display | 13MP AI Dual Rear Camera | 5000 mAh Battery | Secure Face Unlock | Fingerprint Reader | Charger & Phone-Case in Box",
+        "price": "5999",
+        "image": "https://m.media-amazon.com/images/I/61ashrm0SzL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "110"
+    },
+    {
+        "id": 27,
+        "category": "mobile",
+        "title": "Redmi 14C 5G (Stardust Purple, 6GB RAM, 128GB Storage) | Superfast 4nm Snapdragon 4 Gen 2 | 120Hz 17.47cm (6.88”) Display | 5160mAh Battery | 50MP Dual Camera | Premium Starlight Design",
+        "price": "11498",
+        "image": "https://m.media-amazon.com/images/I/81-FAwtrstL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1398"
+    },
+    {
+        "id": 28,
+        "category": "mobile",
+        "title": "Redmi Note 14 Pro 5G Ivy Green 8GB RAM 128GB Storage |50 MP Sony Camera Setup|Corning Gorilla Glass Victus 2 | 1.5K 3D Curved AMOLED | Mediatek Dimensity 7300- Ultra",
+        "price": "22999",
+        "image": "https://m.media-amazon.com/images/I/71DsX0zIwRL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "205"
+    },
+    {
+        "id": 29,
+        "category": "mobile",
+        "title": "iQOO Z10 Lite 5G (Cyber Green, 6GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+        "price": "10998",
+        "image": "https://m.media-amazon.com/images/I/61852T0zGxL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "1252"
+    },
+    {
+        "id": 30,
+        "category": "mobile",
+        "title": "Redmi 13 5G Prime Edition, Hawaiian Blue, 8GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+        "price": "11699",
+        "image": "https://m.media-amazon.com/images/I/81CQZB2t52L._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1366"
+    },
+    {
+        "id": 31,
+        "category": "shoes",
+        "title": "Bacca Bucci",
+        "price": "1499",
+        "image": "https://m.media-amazon.com/images/I/71V4GGv1edL._AC_UL320_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "1319"
+    },
+    {
+        "id": 32,
+        "category": "shoes",
+        "title": "OFF LIMITS",
+        "price": "1480",
+        "image": "https://m.media-amazon.com/images/I/61c5oWTN4oL._AC_UL320_.jpg",
+        "rating": "3.6 out of 5 stars",
+        "reviews": "450"
+    },
+    {
+        "id": 33,
+        "category": "shoes",
+        "title": "Cruiser",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/71ciTbDpkWL._AC_UL320_.jpg",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "98"
+    },
+    {
+        "id": 34,
+        "category": "shoes",
+        "title": "Bacca Bucci",
+        "price": "1499",
+        "image": "https://m.media-amazon.com/images/I/61peFOPH0YL._AC_UL320_.jpg",
+        "rating": "5.0 out of 5 stars",
+        "reviews": "1"
+    },
+    {
+        "id": 35,
+        "category": "shoes",
+        "title": "Boldfit",
+        "price": "187",
+        "image": "https://m.media-amazon.com/images/I/71UlEDZPiCL._AC_UL320_.jpg",
+        "rating": "4.4 out of 5 stars",
+        "reviews": "11339"
+    },
+    {
+        "id": 36,
+        "category": "shoes",
+        "title": "ASIAN",
+        "price": "849",
+        "image": "https://m.media-amazon.com/images/I/81R6YbNKOzL._AC_UL320_.jpg",
+        "rating": "3.6 out of 5 stars",
+        "reviews": "1374"
+    },
+    {
+        "id": 37,
+        "category": "shoes",
+        "title": "SPARX",
+        "price": "968",
+        "image": "https://m.media-amazon.com/images/I/71iA0nEfdoL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "11141"
+    },
+    {
+        "id": 38,
+        "category": "shoes",
+        "title": "Campus",
+        "price": "1409",
+        "image": "https://m.media-amazon.com/images/I/71queO3YR8L._AC_UL320_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "236"
+    },
+    {
+        "id": 39,
+        "category": "shoes",
+        "title": "DOCTOR EXTRA SOFT",
+        "price": "1499",
+        "image": "https://m.media-amazon.com/images/I/61gy9GBKoIL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "351"
+    },
+    {
+        "id": 40,
+        "category": "shoes",
+        "title": "adidas",
+        "price": "2699",
+        "image": "https://m.media-amazon.com/images/I/71UpfvPX0XL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "133"
+    },
+    {
+        "id": 41,
+        "category": "backpack",
+        "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
+        "price": "2199",
+        "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "445"
+    },
+    {
+        "id": 42,
+        "category": "backpack",
+        "title": "SWISS MILITARY 30L Unisex Laptop Travel Backpack for 15.6-Inch Laptops – with Luggage Strap, Detachable Key Ring, Anti-Theft Pocket, Expandable Bottle Pocket for Office and College Use",
+        "price": "1639",
+        "image": "https://m.media-amazon.com/images/I/61T7iWBl0aL._AC_UY218_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "340"
+    },
+    {
+        "id": 43,
+        "category": "backpack",
+        "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
+        "price": "699",
+        "image": "https://m.media-amazon.com/images/I/71maWXZscfL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "8190"
+    },
+    {
+        "id": 44,
+        "category": "backpack",
+        "title": "American Tourister Valex 28 Ltrs Large 5 Compartment Laptop Backpack with Bottle Pocket and Front Organizer- Black",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/51yfw2JIxwL._AC_UY218_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "8238"
+    },
+    {
+        "id": 45,
+        "category": "backpack",
+        "title": "FUR JADEN Vegan Leather Stylish 15.6 Inch Laptop Backpack Travel Weekender Bag For Men Women",
+        "price": "2199",
+        "image": "https://m.media-amazon.com/images/I/710-6xeKTcL._AC_UL320_.jpg",
+        "rating": "4.3 out of 5 stars",
+        "reviews": "445"
+    },
+    {
+        "id": 46,
+        "category": "backpack",
+        "title": "FUR JADEN Pro Series Smart Tech Anti-Theft Laptop Backpack With USB-A and USB-C Type Charging Port for Men & Women For Business Professionals & College Students",
+        "price": "3527",
+        "image": "https://m.media-amazon.com/images/I/717WB-GdK3L._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "308"
+    },
+    {
+        "id": 47,
+        "category": "backpack",
+        "title": "Kamiliant by American Tourister Dissenter Office Laptop Backpack with 15\" Inch Laptop Compartment, 33 L Capacity, Ergonomically Designed with Bottle Holder for Men And Women - Black",
+        "price": "1298",
+        "image": "https://m.media-amazon.com/images/I/71veoALEhCL._AC_UL320_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "35"
+    },
+    {
+        "id": 48,
+        "category": "backpack",
+        "title": "Gods GHOST X 25 ltr Anti Theft 15.6 inch Laptop Tech Backpack for Men, Women, Boys, Girls | Premium bags for Gift | Bike Riding Bag for College, Travel, Office, Flight luggage | Black",
+        "price": "3799",
+        "image": "https://m.media-amazon.com/images/I/71CoxElajML._AC_UL320_.jpg",
+        "rating": "4.5 out of 5 stars",
+        "reviews": "9225"
+    },
+    {
+        "id": 49,
+        "category": "backpack",
+        "title": "Aristocrat 13L Nova 3 Compartment Laptop Backpack - Black/School Bag",
+        "price": "389",
+        "image": "https://m.media-amazon.com/images/I/71aYGrOy6gL._AC_UY218_.jpg",
+        "rating": "4.1 out of 5 stars",
+        "reviews": "603"
+    },
+    {
+        "id": 50,
+        "category": "backpack",
+        "title": "FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",
+        "price": "699",
+        "image": "https://m.media-amazon.com/images/I/61egMfcDWlL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "10234"
+    },
+    {
+        "id": 51,
+        "category": "smartwatch",
+        "title": "Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39\" TFT Display with Dual Button, Hands On Voice Assistance, 120 Sports Modes, in Built Mic & Speaker (Talk, Grey)",
+        "price": "1199",
+        "image": "https://m.media-amazon.com/images/I/61uNMR5WssL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "35917"
+    },
+    {
+        "id": 52,
+        "category": "smartwatch",
+        "title": "NoiseFit Halo 1.43\" AMOLED Display, Bluetooth Calling Round Dial Smart Watch, Premium Metallic Build, Always on Display, Smart Gesture Control, 100 Sports Modes (Forest Green)",
+        "price": "2799",
+        "image": "https://m.media-amazon.com/images/I/71qvHi7qXEL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "8758"
+    },
+    {
+        "id": 53,
+        "category": "smartwatch",
+        "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+        "price": "1199",
+        "image": "https://m.media-amazon.com/images/I/61bm7UEdGAL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "18837"
+    },
+    {
+        "id": 54,
+        "category": "smartwatch",
+        "title": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link)",
+        "price": "1699",
+        "image": "https://m.media-amazon.com/images/I/81oS2scJ5GL._AC_UY218_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "28351"
+    },
+    {
+        "id": 55,
+        "category": "smartwatch",
+        "title": "GOBOULT Drift+ Smart Watch 1.85''HD Screen, Bluetooth Calling, IP68, 500 Nits Brightness,150+ Watchfaces, AI Voice Assistant, SpO2 Monitoring, 100+ Sports Mode Smartwatch (Jet Black)",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/71Ar4cKZKYL._AC_UY218_.jpg",
+        "rating": "4.2 out of 5 stars",
+        "reviews": "1881"
+    },
+    {
+        "id": 56,
+        "category": "smartwatch",
+        "title": "Noise Pro 6 Smart Watch:Intelligent AI, Endless AI Watch Faces, AI Companion, 1.85\" AMOLED, EN2 Processor, Nebula UI 2.0, Emergency SOS, Compatible with iOS & Android (Arctic Weave), Multicolor",
+        "price": "6498",
+        "image": "https://m.media-amazon.com/images/I/81cuxixj2-L._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "20608"
+    },
+    {
+        "id": 57,
+        "category": "smartwatch",
+        "title": "Noise Twist Go Smart Watch 1.39\" Display, TruSyncᵀᴹ BT Calling, Glossy Metal Finish, 150+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, Smart Watch for Men and Women (Silver Blue)",
+        "price": "1399",
+        "image": "https://m.media-amazon.com/images/I/711G-fvEShL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "28351"
+    },
+    {
+        "id": 58,
+        "category": "smartwatch",
+        "title": "Noise Vortex Plus 1.46 AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Battery Life, All New OS with 100+ Watch Faces & Health Suite (Black)",
+        "price": "2199",
+        "image": "https://m.media-amazon.com/images/I/61QiBo-sPTL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "54377"
+    },
+    {
+        "id": 59,
+        "category": "smartwatch",
+        "title": "Fire-Boltt Brillia Smart Watch with 51.3mm (2.02 inch) AMOLED Display, Bluetooth Calling, SpO2, Heart Rate Monitoring, 120+ Sports Modes (Brillia, Beige)",
+        "price": "1899",
+        "image": "https://m.media-amazon.com/images/I/71ubhSeYD0L._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "18986"
+    },
+    {
+        "id": 60,
+        "category": "smartwatch",
+        "title": "NoiseFit Halo 1.43\" AMOLED Display, Bluetooth Calling Round Dial Smart Watch, Premium Metallic Build, Always on Display, Smart Gesture Control, 100 Sports Modes (Vintage Brown)",
+        "price": "2799",
+        "image": "https://m.media-amazon.com/images/I/71aTghUQfqL._AC_UL320_.jpg",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "8758"
+    }
 ]
-
-
